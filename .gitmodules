@@ -1,0 +1,3 @@
+[submodule "required_extra_data/_somatic"]
+	path = required_extra_data/_somatic
+	url = https://github.com/Computational-Genomics-BSC/somatic-variant-callers.git
